@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pomodoro</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <div class="background">
+        <!-- <img src="bg1.jpg" class="main-img"> -->
+        <button onclick="toggle();">
+            <img src="Images/TOGGLE.png" alt="toggle" class="toggle">
+        </button>
+        <div id="container">
+            <div id='timer'>
+                25:00
+            </div>
+            <div class=" buttons">
+                <button onclick="play();" class='btn'>
+                    <img src="Images/play.png" alt="Play" class='btnimg'>
+                </button>
+                <button onclick="pause();" class='btn'>
+                    <img src="Images/pause.png" alt="Pause" class='btnimg'>
+                </button>
+                <button onclick="retry();" class='btn'>
+                    <img src="Images/retry.png" alt="retry" class='btnimg'>
+                </button>
+            </div>
+        </div>
+        <div class="music">
+            <button class="btnm" onclick="eda();">
+                <img src="Images/lighting.png" alt="lighting" class="m-img">
+                <audio src="audios/edaeda.mp3" class="light"></audio>
+            </button>
+            <button class="btnm" onclick="lalala();">
+                <img src="Images/headphone.png" alt="headphone" class="m-img">
+                <audio src="audios/music.mp3" class="la" loop hidden></audio>
+            </button>
+            <button class="btnm" onclick="rain();">
+                <img src="Images/rainy.png" alt="rainy" class="m-img">
+                <audio src="audios/rain.mp3" class="raining" loop hidden></audio>
+            </button>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+
+</html>
