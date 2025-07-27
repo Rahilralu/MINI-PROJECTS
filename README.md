@@ -1,15 +1,67 @@
-# Mini Projects Collection 🎯
+# 🎯 Mini Projects Collection
 
-Welcome to my Mini Projects repository — a collection of small, self-contained projects built to sharpen my skills in web development and Python game development. These projects are fun, functional, and help reinforce important programming concepts.
+Welcome to my **Mini Projects** repository — a growing collection of small, self-contained projects built to sharpen my skills in **web development** and **Python game development**. These projects are fun, functional, and focused on reinforcing core programming concepts.
 
-🕹️ **TIC-TAC-TOE**:  
-This is a simple implementation of the classic Tic Tac Toe game built using **Python and Pygame**. It features a basic 2-player mode, graphical interface, and handles win/draw detection. This project helped me get hands-on experience with game loops, rendering, and event handling in Pygame.
+---
 
-✊ **ROCK-PAPER-SCISSOR**:  
-This web-based game is built using **HTML, CSS, and JavaScript**. It lets players play against a random computer choice. I used DOM manipulation and logic handling to update the scores and game status dynamically.
+## 🕹️ Tic-Tac-Toe (Python + Pygame)
 
-💡 This repository is a growing collection of my learning journey. As I explore more technologies and frameworks, I will keep adding to this repo — from fun logic games to web tools.
-https://rahilralu.github.io/MINI-PROJECTS/ROCK-PAPER-SCISSOR/rock-paper-scissor.html
+A simple implementation of the classic **Tic Tac Toe** game using Python and the Pygame library.
 
+**Features:**
+- 2-player mode
+- Win/draw detection
+- Graphical interface with grid and symbols
 
-Feel free to explore the folders and try out the projects!
+**What I learned:**
+- Game loops and frame updates
+- Event handling and mouse input
+- Basic rendering and Pygame surface logic
+
+---
+
+## ✊ Rock-Paper-Scissors (HTML/CSS/JavaScript)
+
+A web-based version of the classic **Rock-Paper-Scissors** game.
+
+**Features:**
+- Player vs Computer mode
+- Randomized computer choices
+- Score tracking and dynamic result display
+
+**Technologies Used:**
+- DOM manipulation
+- Event listeners and logic handling
+- CSS animations and transitions
+
+🔗 **Live Demo:** [Play Now](https://rahilralu.github.io/MINI-PROJECTS/ROCK-PAPER-SCISSOR/rock-paper-scissor.html)
+
+---
+
+## ⏱️ Pomodoro Timer (HTML/CSS/JavaScript)
+
+A clean and aesthetic Pomodoro timer with relaxing ambient sounds like rain and lightning to help you focus during study sessions.
+
+**Features:**
+- 25-minute timer with Play, Pause, Retry
+- Rain and lightning background sounds
+- Beautiful background and responsive layout
+
+🔗 **Live Demo:** [Try It](https://keen-phoenix-e2f470.netlify.app/)
+
+---
+
+## 🧠 About This Repo
+
+This repository is a reflection of my learning journey. As I explore new technologies and improve my skills, I will keep adding more mini projects — from classic games to useful web tools and UI experiments.
+
+Feel free to explore the folders, try out the projects, and watch the collection grow!
+
+---
+
+## 🙌 Feedback & Contributions
+
+If you try one of the projects and have suggestions or find issues, feel free to:
+- ⭐ Star the repository
+- 🍴 Fork and enhance it
+- 🐞 Open issues or ideas for improvements
