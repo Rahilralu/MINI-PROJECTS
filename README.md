@@ -1,33 +1,66 @@
-
 # Mini Projects Collection 🎯
 
 Welcome to my Mini Projects repository — a collection of small, self-contained projects built to sharpen my skills in web development and Python game development. These projects are fun, functional, and help reinforce important programming concepts.
 
 ---
 
-🕹️ **TIC-TAC-TOE**  
-This is a simple implementation of the classic Tic Tac Toe game built using **Python and Pygame**. It features a basic 2-player mode, graphical interface, and handles win/draw detection. This project helped me get hands-on experience with game loops, rendering, and event handling in Pygame.
+## 📌 Projects So Far
+
+- 🕹️ **Tic-Tac-Toe** – Python + Pygame  
+- ✊ **Rock-Paper-Scissor** – HTML, CSS, JS ([Live Demo](https://rahilralu.github.io/MINI-PROJECTS/ROCK-PAPER-SCISSOR/rock-paper-scissor.html))  
+- 🧠 **Memory Card Game** – HTML, CSS, JS ([Live Demo](https://rnmemorycardgame.netlify.app/game.html))  
+- ⏱️ **Pomodoro Timer** – HTML, CSS, JS ([Live Demo](https://nrpomodoro.netlify.app/))
 
 ---
 
-✊ **ROCK-PAPER-SCISSOR**  
-This web-based game is built using **HTML, CSS, and JavaScript**. It lets players play against a random computer choice. I used DOM manipulation and logic handling to update the scores and game status dynamically.  
-🔗 [Play Live](https://rahilralu.github.io/MINI-PROJECTS/ROCK-PAPER-SCISSOR/rock-paper-scissor.html)
+### 🕹️ TIC-TAC-TOE  
+This is a simple implementation of the classic Tic Tac Toe game built using **Python and Pygame**. It features a basic 2-player mode, graphical interface, and handles win/draw detection.
+
+💡 This project helped me get hands-on experience with game loops, rendering, and event handling in Pygame.
 
 ---
 
-🧠 **MEMORY CARD GAME**  
-A classic **memory matching game** built using **HTML, CSS, and JavaScript**. Flip two cards at a time to find matching pairs. The game keeps track of your moves, score, and time.
+### ✊ ROCK-PAPER-SCISSOR  
+This web-based game is built using **HTML, CSS, and JavaScript**. It lets players play against a random computer choice.
 
 **Features:**
-- Smooth flip animations using CSS transitions  
-- Score and move tracking  
-- Timer for added challenge  
-- Locked board state during comparisons  
+- Computer generates random move
+- Score and round tracking
+- Interactive game status updates
+
+🔗 [Play Live](https://rahilralu.github.io/MINI-PROJECTS/ROCK-PAPER-SCISSOR/rock-paper-scissor.html)
+
+💡 I used DOM manipulation and JavaScript logic to update game state and UI dynamically.
+
+---
+
+### 🧠 MEMORY CARD GAME  
+A classic **memory matching game** built using **HTML, CSS, and JavaScript**. Flip two cards at a time to find matching pairs.
+
+**Features:**
+- Flip animations with CSS
+- Score and move tracking
+- Timer to measure completion speed
+- Board lock logic to prevent spam clicks
 
 🔗 [Play Live](https://rnmemorycardgame.netlify.app/game.html)
 
-💡 This project helped me improve DOM handling, game logic structuring, and working with timing functions in JavaScript.
+💡 This game sharpened my understanding of game logic, DOM handling, and timers.
+
+---
+
+### ⏱️ POMODORO TIMER  
+A productivity timer based on the **Pomodoro Technique**. Helps you focus by timing 25-minute work sessions followed by 5-minute breaks.
+
+**Features:**
+- Start, pause, and reset buttons  
+- Countdown timer display  
+- Clean and minimal layout  
+- Built using vanilla JS
+
+🔗 [Play Live](https://nrpomodoro.netlify.app/)
+
+💡 Great practice for working with setInterval(), DOM manipulation, and time-based event logic.
 
 ---
 
