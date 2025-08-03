@@ -2,7 +2,7 @@
 
 A minimal and aesthetic *Pomodoro Timer* built with HTML, CSS, and JavaScript — designed to help you stay focused while enjoying relaxing ambient sounds like rain and lighting ⚡🌧.
 
-> 🔗 [Live Demo on Netlify](https://keen-phoenix-e2f470.netlify.app/)
+> 🔗 [Live Demo on Netlify](https://nrpomodoro.netlify.app/)
 
 ---
 
