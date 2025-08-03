@@ -28,7 +28,7 @@ This web-based game is built using **HTML, CSS, and JavaScript**. It lets player
 - Score and round tracking
 - Interactive game status updates
 
-🔗 [Play Live](https://rahilralu.github.io/MINI-PROJECTS/ROCK-PAPER-SCISSOR/rock-paper-scissor.html)
+🔗 [Play Demo](https://rahilralu.github.io/MINI-PROJECTS/ROCK-PAPER-SCISSOR/rock-paper-scissor.html)
 
 💡 I used DOM manipulation and JavaScript logic to update game state and UI dynamically.
 
@@ -43,7 +43,7 @@ A classic **memory matching game** built using **HTML, CSS, and JavaScript**. Fl
 - Timer to measure completion speed
 - Board lock logic to prevent spam clicks
 
-🔗 [Play Live](https://rnmemorycardgame.netlify.app/game.html)
+🔗 [Play Demo](https://rnmemorycardgame.netlify.app/game.html)
 
 💡 This game sharpened my understanding of game logic, DOM handling, and timers.
 
@@ -58,7 +58,7 @@ A productivity timer based on the **Pomodoro Technique**. Helps you focus by tim
 - Clean and minimal layout  
 - Built using vanilla JS
 
-🔗 [Play Live](https://nrpomodoro.netlify.app/)
+🔗 [Play Demo](https://nrpomodoro.netlify.app/)
 
 💡 Great practice for working with setInterval(), DOM manipulation, and time-based event logic.
 
