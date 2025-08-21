@@ -1,7 +1,7 @@
 # 🎬 MovieArea12
 
 A movie discovery web app built with **Vite + React**, powered by **TMDB API** and **Appwrite**.  
-Deployed on **Netlify**: [moviearea12.netlify.app](https://moviearea12.netlify.app)
+Deployed on **Netlify**: [Link Here](https://moviearea12.netlify.app/)
 
 ---
 
