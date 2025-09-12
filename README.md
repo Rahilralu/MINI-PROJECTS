@@ -8,6 +8,7 @@ These projects are fun, functional, and helped me practice important programming
 ## 📌 Projects So Far  
 
 - 🎬 **Movie Hub** – Vite + React, Appwrite, TMDB API ([Live Demo](https://moviearea12.netlify.app/))  
+- 🎬 **Movie Hub 2.0** – Vite + React, Node.js, Express.js, MongoDB, TMDB API   
 - 🕹️ **Tic-Tac-Toe** – Python + Pygame  
 - ✊ **Rock-Paper-Scissor** – HTML, CSS, JS ([Live Demo](https://rahilralu.github.io/MINI-PROJECTS/ROCK-PAPER-SCISSOR/rock-paper-scissor.html))  
 - 🧠 **Memory Card Game** – HTML, CSS, JS ([Live Demo](https://rnmemorycardgame.netlify.app/game.html))  
@@ -15,7 +16,7 @@ These projects are fun, functional, and helped me practice important programming
 
 ---
 
-### 🎬 Movie Hub  
+### 🎬 Movie Hub (Original)  
 A **movie discovery web app** built with **Vite + React**, powered by the **TMDB API**, and integrated with **Appwrite** for backend/database.  
 Deployed seamlessly on **Netlify**.  
 
@@ -35,7 +36,29 @@ Deployed seamlessly on **Netlify**.
 
 🔗 [Live Demo](https://moviearea12.netlify.app/)  
 
-💡 This project helped me practice **API integration, authentication, and cloud backend (Appwrite)**.  
+💡 Practiced **API integration, authentication, and cloud backend (Appwrite)**.  
+
+---
+
+### 🎬 Movie Hub 2.0  
+A **next-gen version** of Movie Hub with a **custom backend** using **Node.js, Express.js, and MongoDB** to track user interactions, searches, and movie metrics. Frontend remains **Vite + React**.  
+
+**Features:**
+- 🔍 Search movies from TMDB  
+- 🎥 Browse trending & popular movies  
+- 📖 Detailed movie info page  
+- 🗄️ Node.js/Express + MongoDB backend for tracking searches, counts, and interactions  
+- ⚡ Fast builds with Vite  
+- ☁️ Frontend deployed on Netlify, backend hosted separately  
+
+**Tech Stack:**
+- **Frontend:** React (Vite)  
+- **Backend/DB:** Node.js, Express.js, MongoDB, Mongoose  
+- **API:** TMDB  
+- **Deployment:** Netlify (frontend), cloud hosting for backend  
+  
+
+💡 Practiced **full-stack development**, connecting a React frontend to a RESTful backend, and maintaining multiple app versions.  
 
 ---
 
@@ -47,7 +70,7 @@ A simple implementation of the classic **Tic Tac Toe** game built using **Python
 - Graphical interface  
 - Win/Draw detection  
 
-💡 Helped me practice **game loops, rendering, and event handling** in Pygame.  
+💡 Helped practice **game loops, rendering, and event handling** in Pygame.  
 
 ---
 
@@ -76,7 +99,7 @@ A **memory matching game** built with **HTML, CSS, and JavaScript**.
 
 🔗 [Play Demo](https://rnmemorycardgame.netlify.app/game.html)  
 
-💡 Strengthened my understanding of **game logic, DOM handling, and timers**.  
+💡 Strengthened understanding of **game logic, DOM handling, and timers**.  
 
 ---
 
@@ -98,7 +121,7 @@ A **productivity timer** based on the **Pomodoro Technique**.
 
 - **Frontend:** HTML, CSS, JavaScript, React (Vite)  
 - **Game Dev:** Python, Pygame  
-- **Backend/DB:** Appwrite  
+- **Backend/DB:** Appwrite, Node.js, Express.js, MongoDB  
 - **API:** TMDB  
 - **Deployment:** Netlify, GitHub Pages  
 
@@ -108,4 +131,4 @@ A **productivity timer** based on the **Pomodoro Technique**.
 This repository is a **growing collection** of my learning journey.  
 I’ll keep adding more projects — from **fun logic games to full-stack web apps** — as I explore new **frameworks, libraries, and APIs**.  
 
-✨ Stay tuned for more!  
+✨ Stay tuned for more!
