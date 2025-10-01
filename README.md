@@ -59,7 +59,7 @@ A **next-gen version** of Movie Hub with a **custom backend** using **Node.js, E
   
 
 💡 Practiced **full-stack development**, connecting a React frontend to a RESTful backend, and maintaining multiple app versions.  
-
+🔗 [Live Demo](https://movie-app-frontend-fwn9.vercel.app/)  
 ---
 
 ### 🕹️ TIC-TAC-TOE  
